@@ -18,18 +18,12 @@ Link to Kaggle Dataset Used: https://www.kaggle.com/jtiptj/chest-xray-pneumoniac
 │   ├── NIHCC_SVM_Model.ipynb  
 │   └── NIHCC_xray_data.py  
 ├── README.md  
-├── archive  
-│   ├── data_processing_hassan.ipynb  
-│   ├── data_processing_julia.ipynb  
-│   ├── dicom_experiments.ipynb  
-│   ├── dicom_converter.py  
-│   ├── example_load_xray_data.ipynb  
-│   └── filtering_and_plotting.ipynb  
-├── model_ensemble.ipynb  
-├── model_knn.ipynb  
-├── model_naive_bayes.ipynb  
-├── model_neural_nets.ipynb  
-├── model_svm.ipynb  
+├── models
+│   ├── model_ensemble.ipynb 
+│   ├── model_knn.ipynb
+│   ├── model_naive_bayes.ipynb
+│   ├── model_neural_nets.ipynb
+│   ├── model_svm.ipynb
 └── xray_data.py  
 
 ### Image Loading & Processing
